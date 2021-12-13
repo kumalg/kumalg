@@ -4,4 +4,4 @@
 
 💻 Mainly working with **Vue.js**, but also **.NET Core**.
 
-🍏 After work, I develop [**Recipeit**](https://recipeit.pl) web app, which proposes recipes based on ingredients that the user has. *(Tech stack: Vue 3, .net 5, ASP.NET, nginx, docker, postgres, mjml)*
+🍏 After work, I develop [**Recipeit**](https://recipeit.pl) web app, which proposes recipes based on ingredients that the user has. *(Tech stack: Vue 3, .NET 5, ASP.NET Core, nginx, docker, postgres, mjml)*
