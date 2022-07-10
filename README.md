@@ -1,6 +1,6 @@
 ## Hi 👋
 
-🙋 My name is Kamil. I'm a **Frontend Developer** at [**eobuwie.pl**](https://www.eobuwie.com.pl).
+🙋 My name is Kamil. I'm a **Frontend Developer** at [**Modivo**](https://modivo.pl).
 
 💻 Mainly working with **Vue.js**, but also **.NET Core**.
 
