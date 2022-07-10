@@ -1,4 +1,4 @@
-## Yo 👋
+## Hi 👋
 
 🙋 My name is Kamil. I'm a **Frontend Developer** at [**eobuwie.pl**](https://www.eobuwie.com.pl).
 
